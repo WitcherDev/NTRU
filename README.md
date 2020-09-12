@@ -1,6 +1,6 @@
 # NTRU
 Własna implementacja generatora parametrów dla kryptosystemu NTRU.
-Następnie obliczam prawdopodobieństwo wystąpienia elementu odwrotnego dla losowego wielomianu generowanego w pierścieniu zależnym od N oraz q
+Dodatkowo, obliczam prawdopodobieństwo wystąpienia elementu odwrotnego dla losowego wielomianu generowanego w pierścieniu zależnym od N oraz q
 
 # Założenia
 
